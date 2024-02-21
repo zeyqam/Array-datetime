@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\bin\Debug\net6.0\Array-Datetime.exe
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\bin\Debug\net6.0\Array-Datetime.deps.json
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\bin\Debug\net6.0\Array-Datetime.runtimeconfig.json
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\bin\Debug\net6.0\Array-Datetime.dll
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\bin\Debug\net6.0\Array-Datetime.pdb
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\Array-Datetime.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\Array-Datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\Array-Datetime.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\Array-Datetime.AssemblyInfo.cs
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\Array-Datetime.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\Array-Datetime.dll
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\refint\Array-Datetime.dll
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\Array-Datetime.pdb
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\Array-Datetime.genruntimeconfig.cache
+C:\Users\HP\Desktop\Array-Datetime\Array-Datetime\obj\Debug\net6.0\ref\Array-Datetime.dll
